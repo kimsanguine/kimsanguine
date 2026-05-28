@@ -40,9 +40,9 @@ AI 시대의 프로덕트는 기존과 완전히 다른 설계 원칙을 요구�
 | | Repo | What it is |
 |:---:|------|------------|
 | **PM** | [**AI_PM**](https://github.com/kimsanguine/AI_PM) | PM의 워크플로우를 Claude Code로 재설계하는 8파트 실전 가이드 |
-| **Skills** | [**AI_PM_Skills**](https://github.com/kimsanguine/AI_PM_Skills) | 5 plugins · 32 skills · 12 commands — PM이 AI 에이전트를 제품으로 만들기 위한 도구 |
+| **Skills** | **hplan** 🔒 | 5 plugins · 46 skills · 9 commands — 패스트캠퍼스 수강생 전용 Claude Code 하네스 도구 모음 |
 | **Human** | [**AI_Human**](https://github.com/kimsanguine/AI_Human) | AI × Human 협업 프레임워크 — 프롬프트 엔지니어링을 넘어서 |
-| **Engineer** | [**AI_Engineer**](https://github.com/kimsanguine/AI_Engineer) | AI Engineer 실전 가이드 — fundamentals부터 production까지 |
+| **Brain** | [**llm-brain**](https://github.com/kimsanguine/llm-brain) | LLM을 컴파일러로 쓰는 개인 지식 관리 시스템 (Second Brain Compiler) |
 | **Prompts** | [**ai-prompts-playbook**](https://github.com/kimsanguine/ai-prompts-playbook) | 33+ AI 프롬프트 플레이북 — 3-Layer 인지 프레임워크 (전문가의 눈 → 합의 너머 → 자기 검증) |
 
 ---
